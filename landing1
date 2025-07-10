@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desvende a IA: Curso de Prompts de Vídeo - A Jornada Espacial</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Favicon link added -->
+    <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/8jbfLk52/ai-video-prompts-icon.jpg">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0c0a09; /* Fundo muito escuro, quase preto, para simular o espaço */
+            color: #e2e8f0; /* Texto claro para contraste */
+        }
+        .gradient-text {
+            background: linear-gradient(to right, #8b5cf6, #22d3ee); /* Gradiente roxo profundo para ciano vívido */
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .btn-gradient {
+            background: linear-gradient(to right, #8b5cf6, #22d3ee); /* Gradiente roxo profundo para ciano vívido para botões */
+            box-shadow: 0 4px 14px 0 rgba(139, 92, 246, 0.39); /* Sombra baseada na cor inicial do gradiente */
+        }
+        .btn-gradient:hover {
+            background: linear-gradient(to right, #7c3aed, #06b6d4); /* Versão mais escura do gradiente no hover */
+            box-shadow: 0 6px 20px 0 rgba(139, 92, 246, 0.5);
+            transform: translateY(-2px);
+        }
+        .card-bg {
+            background-color: #1f2937; /* Fundo mais escuro para os cards */
+        }
+    </style>
+
+    <!-- TikTok Pixel Code Start -->
+    <script>
+    !function (w, d, t) {
+      w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie","holdConsent","revokeConsent","grantConsent"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(
+    var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var r="https://analytics.tiktok.com/i18n/pixel/events.js",o=n&&n.partner;ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=r,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script")
+    ;n.type="text/javascript",n.async=!0,n.src=r+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+
+      ttq.load('D1JF3OJC77U2VBBSPGP0');
+      ttq.page();
+    }(window, document, 'ttq');
+    </script>
+    <!-- TikTok Pixel Code End -->
+</head>
+<body class="antialiased">
+    <div class="min-h-screen flex flex-col items-center justify-center py-8 px-2 sm:px-6 lg:px-8">
+        <div class="max-w-4xl w-full card-bg shadow-xl rounded-2xl p-6 sm:p-8 space-y-6 sm:space-y-8 border border-purple-700">
+            <!-- Seção Principal (Hero Section) -->
+            <div class="text-center">
+                <!-- Imagem do curso de prompts de vídeo IA -->
+                <img src="https://i.postimg.cc/8jbfLk52/ai-video-prompts-icon.jpg" alt="AI Video Prompts Icon" class="mx-auto h-24 w-24 sm:h-32 sm:w-32 rounded-full mb-4 sm:mb-6 shadow-lg border-2 border-cyan-500">
+                <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight">
+                    <span class="gradient-text">Desvende o Cosmos da Criação de Vídeos com Prompts de IA</span>
+                </h1>
+                <p class="mt-3 text-lg sm:text-xl text-gray-400 px-2 sm:px-0">
+                    Lance suas ideias para o universo digital e crie vídeos estelares com o poder da Inteligência Artificial.
+                </p>
+                <div class="mt-6 sm:mt-8">
+                    <span class="text-4xl sm:text-5xl font-bold text-cyan-400">R$ 129,90</span>
+                    <p class="text-base sm:text-lg text-gray-500 mt-1 sm:mt-2">Preço de lançamento - Uma viagem sem volta ao sucesso!</p>
+                </div>
+                <a href="https://pay.kiwify.com.br/zCYPDJI?afid=WlxTFjRj"
+                   class="mt-8 sm:mt-10 inline-flex items-center justify-center px-6 py-3 sm:px-8 sm:py-4 border border-transparent text-base sm:text-lg font-medium rounded-full shadow-lg text-white btn-gradient focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105">
+                    Quero Iniciar Minha Jornada Espacial na Criação de Vídeos!
+                    <!-- Ícone de foguete ou estrela -->
+                    <svg class="ml-2 -mr-1 h-4 w-4 sm:h-5 sm:w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path></svg>
+                </a>
+            </div>
+
+            <!-- Seção de Descrição do Curso -->
+            <div class="mt-12 sm:mt-16 text-center">
+                <h2 class="text-2xl sm:text-3xl font-bold text-white">Explore as Galáxias do Conhecimento!</h2>
+                <p class="mt-3 text-base sm:text-lg text-gray-400 max-w-2xl mx-auto px-2 sm:px-0">
+                    Este curso é o seu guia estelar para navegar no universo dos prompts de IA para criação de vídeos. Seja você um explorador iniciante ou um astronauta experiente, você descobrirá coordenadas e segredos para gerar vídeos de alta qualidade que brilham como estrelas.
+                </p>
+            </div>
+
+            <!-- Seção de Recursos/Benefícios -->
+            <div class="mt-8 sm:mt-12 grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
+                <div class="bg-gray-800 p-5 sm:p-6 rounded-xl shadow-md flex items-start space-x-3 sm:space-x-4 border border-purple-700">
+                    <div class="flex-shrink-0">
+                        <svg class="h-7 w-7 sm:h-8 sm:w-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.001 12.001 0 002.92 12c0 3.072 1.873 5.785 4.514 7.5a12.001 12.001 0 0013.46-10.735 12.001 12.001 0 00-3.473-8.618z"></path></svg>
+                    </div>
+                    <div>
+                        <h3 class="text-lg sm:text-xl font-semibold text-white">Mapeamento de Prompts Estelares</h3>
+                        <p class="mt-1 text-sm sm:text-base text-gray-400">Aprenda a traçar as rotas e os elementos essenciais para criar prompts que alcançam resultados de outro mundo.</p>
+                    </div>
+                </div>
+                <div class="bg-gray-800 p-5 sm:p-6 rounded-xl shadow-md flex items-start space-x-3 sm:space-x-4 border border-purple-700">
+                    <div class="flex-shrink-0">
+                        <svg class="h-7 w-7 sm:h-8 sm:w-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                    </div>
+                    <div>
+                        <h3 class="text-lg sm:text-xl font-semibold text-white">Propulsão de Técnicas Avançadas</h3>
+                        <p class="mt-1 text-sm sm:text-base text-gray-400">Descubra truques e otimizações para impulsionar seus prompts e obter vídeos com brilho profissional.</p>
+                    </div>
+                </div>
+                <div class="bg-gray-800 p-5 sm:p-6 rounded-xl shadow-md flex items-start space-x-3 sm:space-x-4 border border-purple-700">
+                    <div class="flex-shrink-0">
+                        <svg class="h-7 w-7 sm:h-8 sm:w-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"></path></svg>
+                    </div>
+                    <div>
+                        <h3 class="text-lg sm:text-xl font-semibold text-white">Conheça os Melhores Prompts de IA Prontos</h3>
+                        <p class="mt-1 text-sm sm:text-base text-gray-400">Tenha acesso a uma biblioteca de prompts de IA otimizados para você utilizar e criar vídeos incríveis imediatamente.</p>
+                    </div>
+                </div>
+                <div class="bg-gray-800 p-5 sm:p-6 rounded-xl shadow-md flex items-start space-x-3 sm:space-x-4 border border-purple-700">
+                    <div class="flex-shrink-0">
+                        <svg class="h-7 w-7 sm:h-8 sm:w-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V8a2 2 0 00-2-2h-5m-4 0V5a2 2 0 114 0v1m-4 0h4m-4 0H9m7 0h-1.5M17 10h.01M12 14h.01M15 17h.01M12 17h.01"></path></svg>
+                    </div>
+                    <div>
+                        <h3 class="text-lg sm:text-xl font-semibold text-white">Universo da Criação Ilimitada</h3>
+                        <p class="mt-1 text-sm sm:text-base text-gray-400">Libere sua criatividade cósmica e produza vídeos para marketing, conteúdo, arte e muito mais!</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Seção de Chamada para Ação (Repetição para Ênfase) -->
+            <div class="mt-12 sm:mt-16 text-center">
+                <h2 class="text-2xl sm:text-3xl font-bold text-white">Não Deixe Essa Oportunidade Escapar para Outra Galáxia!</h2>
+                <p class="mt-3 text-base sm:text-lg text-gray-400 max-w-xl mx-auto px-2 sm:px-0">
+                    Invista em seu futuro e comece a criar vídeos que se destacam no vasto espaço do mercado.
+                </p>
+                <a href="https://pay.kiwify.com.br/zCYPDJI?afid=WlxTFjRj"
+                   class="mt-8 inline-flex items-center justify-center px-6 py-3 sm:px-8 sm:py-4 border border-transparent text-base sm:text-lg font-medium rounded-full shadow-lg text-white btn-gradient focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105">
+                    Garanta Sua Vaga Agora e Descole por Apenas R$ 129,90!
+                    <!-- Ícone de foguete -->
+                    <svg class="ml-2 -mr-1 h-4 w-4 sm:h-5 sm:w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path></svg>
+                </a>
+            </div>
+
+            <!-- Rodapé (Footer) -->
+            <div class="mt-12 sm:mt-16 text-center text-gray-600 text-sm">
+                <p>&copy; 2025 Seu Curso de Prompts de Vídeo IA. Todos os direitos reservadas para o universo.</p>
+                <p>Desenvolvido com paixão cósmica para sua criatividade.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
